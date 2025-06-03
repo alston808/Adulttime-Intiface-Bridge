@@ -24,7 +24,7 @@ A Python bridge that connects Adult Time video content to Buttplug.io/Intiface d
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Adulttime-Intiface-Bridge.git
+git clone https://github.com/alston808/Adulttime-Intiface-Bridge.git
 cd Adulttime-Intiface-Bridge
 ```
 
