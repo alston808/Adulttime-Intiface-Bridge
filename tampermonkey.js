@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Adult Time to Buttplug.io Bridge
-// @namespace    https://github.com/yourusername/adulttime-buttplug-bridge
+// @name         Adult Time to Intiface/Buttplug.io Bridge
+// @namespace    https://raw.githubusercontent.com/alston808/Adulttime-Intiface-Bridge/refs/heads/main/tampermonkey.js
 // @version      0.3
 // @description  Connect Adult Time videos to Intiface/Buttplug.io devices with auto-funscript
-// @author       Your Name
+// @author       alston808
 // @match        *://*.adulttime.com/*
 // @match        *://*.adultempire.com/*
 // @match        *://adulttime.com/*

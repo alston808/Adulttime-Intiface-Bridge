@@ -1,4 +1,4 @@
-# AdultTime-Intiface Bridge
+# AdultTime to Intiface/Buttplug.io Bridge
 
 A Python bridge that connects Adult Time video content to Buttplug.io/Intiface devices for interactive experiences. This project automatically downloads and synchronizes funscripts with Adult Time videos, providing real-time haptic feedback through connected toys.
 
