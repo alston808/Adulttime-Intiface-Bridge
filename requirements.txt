@@ -1,0 +1,5 @@
+asyncio
+websockets>=10.0
+aiohttp>=3.8.0
+python-socketio>=5.7.0
+aiofiles>=0.8.0 
